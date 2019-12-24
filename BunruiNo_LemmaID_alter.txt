@@ -1,4 +1,4 @@
-BunruiNo	LemmaID
+BunruiNo	BunruiLabel	BunruiNoFine	LemmaID
 1.1000	体-関係-事柄-事柄	1.1000-01-01-01	37877
 1.1000	体-関係-事柄-事柄	1.1000-01-01-02	28990
 1.1000	体-関係-事柄-事柄	1.1000-01-01-03	33543
