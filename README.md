@@ -16,17 +16,6 @@ the lines are tab-separated with
 - 1-2nd column: class-division-section-article label
 - 1-3rd column: article number-paragraph number-small paragraph number-word number
 
-## Features (BunruiNo_LemmaID_altered.txt)
-
-1st line is header
-
-the lines are tab-separated with
-- 1st column: article number
-- 2nd column: class-division-section-article label
-- 3rd column: article number-paragraph number-small paragraph number-word number
-- 4th column: UniDic Lemma ID
-
-
 ## Author
 Asuko Kondo (National Institute for Japanese Language and Linguistics, Japan)
 Makiro Tanaka (Meiji University)
